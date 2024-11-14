@@ -84,11 +84,14 @@ CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 重庆台,#genre#
 重庆卫视,http://39.135.133.177/wh7f454c46tw2905496442_1288872867/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 
-重庆新闻,https://byte.live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?&sign=e3ccdaecc62c68dea3dff65d405ab0c2&t=1731602418
-重庆社会与法,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sign=a98ddb028fdab42688e0823b751d70f5&t=1731603654
 重庆时尚生活,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?&sign=fb7e6fcb63b91619e44499cd3e89eed3&t=1731603832
 重庆文体娱乐,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?&sign=5de329031afaca7de54bc1a18a127c4e&t=1731603862
 重庆新农村,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?&sign=cd4e6511c8c9e965b367086baab204b5&t=1731603897
+重庆少儿,https://byte.live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?&sign=33f59bcff23d7ddeeef4e5f05de56fdd&t=1731605447
+重庆科教,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sign=677b63e7205af773d486d2162dec6e01&t=1731605483
+爱看导视,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/aikanHD/__op/default/__f/index.m3u8?sign=de069bd42c61cfd931f144c1e2ecc0d5&t=1731605602
+重庆汽摩,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/cqcarSD/__op/default/__f/index.m3u8?sign=122ee533f4ef1b35a7c75a65a10b1f97&t=1731605585
+重庆移动,http://tencent.live.cbncdn.cn/__cl/cg:live/__c/mryyHD/__op/default/__f/index.m3u8?sign=c987b87c99014108e1e0468cf0682ec9&t=1731605564
 北碚综合,http://222.178.181.121:12034/beibei01.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 大足综合,http://218.201.85.71:3170/m3u8
